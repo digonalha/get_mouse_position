@@ -2,7 +2,7 @@
 
 Python script used to get the current mouse position and print in terminal.
 
-Requirements:
+## Requirements:
 To work, you only need install pynput lib. To install just run
 
-~$ pip install pynput==1.4
+> ~$ pip install pynput==1.4
