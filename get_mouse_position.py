@@ -8,4 +8,5 @@ def get_mouse_position():
     time.sleep(1)
     print('mouse position: {0}'.format(mouse.position))
 
-get_mouse_position()
+if (__name__ == "__main__"):
+    get_mouse_position()
